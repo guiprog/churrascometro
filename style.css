@@ -1,0 +1,36 @@
+body{background-image: url("/kkk.png"
+); background-repeat: no-repeat; background-size:cover; 
+}
+
+.container{max-width: 300px;
+margin: auto;
+font-family: Arial, Helvetica, sans-serif;
+float:right; height: 650px;
+}
+
+input{display:block; width: 100%;
+padding:20px; margin-bottom: 20px;
+margin-left: 0;
+box-sizing: border-box;
+text-align: center;
+border-radius: 10px;
+border-color: rgb(0, 0, 0);
+border-width: 0.0001px;
+font-size: 20px;
+}
+.container{background-color: #FADB6E;
+; padding: 40px; max-width: 300px; border-radius: 20px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; position:absolute; right:0; top:0;
+}
+button{background-color: #9d0056; margin-left: 40px; 
+    border: none;
+    color: white;
+    padding: 18px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;  margin-top: 20px;
+border-radius: 35px; font-size: 20px;}
+h3{text-align: center; font-weight: 150px; margin-bottom: 5px; ;}
+h1{text-align: center; color: #9d0056; font-size: 40px; letter-spacing: 1px; margin-top: 0px; font-weight: bolder; }
+
+#resultado{font-family: Arial, Helvetica, sans-serif; font-weight: bold; margin-top: 23px;}
